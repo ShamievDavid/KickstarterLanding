@@ -68,3 +68,11 @@ prev.addEventListener('click', () => {
 next.addEventListener('click', () => {
   showSlides(slideIndex += 1);
 });
+
+document.addEventListener('keydown', (e) => {
+  if (e.key === 'ArrowLeft') {
+    showSlides(slideIndex += -1);
+  } else if (e.key === 'ArrowRight') {
+    showSlides(slideIndex += 1);
+  }
+});

@@ -5,7 +5,7 @@
 - JS
 
 ## Demo link
-[KICKSTARTER](https://shamievdavid.github.io/NAMU/)
+[KICKSTARTER](https://shamievdavid.github.io/KickstarterLanding/)
 https://www.figma.com/file/Ujp7bCFuvuJlkn8TSbQPSZ/Kickstarter_FE-students?node-id=19655%3A32&mode=dev
  ## Design Mockup
 

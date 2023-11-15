@@ -48,5 +48,9 @@
 
     color: #4f4f4f;
 
+    &:hover {
+      color: $dark-color;
+    }
+
   }
 }
